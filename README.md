@@ -1,4 +1,3 @@
-# messageEngine
+# pita
 
-#### messageEngine is an tool to send Email or SMS to users.
-#### code by PHP
+### pita is an engine to send Email or SMS to users.
